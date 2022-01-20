@@ -1,5 +1,5 @@
-# VACS
-# Versão Alpha
+# V.A.C.S
+# Versão Beta
 # Programado por: João Victor Pereira Cavalcanti e Anderson Cortez Calderini
 
 import matplotlib.pyplot as plot
