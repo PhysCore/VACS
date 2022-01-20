@@ -1,0 +1,18 @@
+Atenção!
+
+Para funcionamento dos programas "AV12E" e "AV12G" é necessário que o usuário instale as bibliotecas "matplotlib" e "numpy". Para isto, basta abrir o terminal do computador e digitar:
+"pip install matplotlib"
+"pip install numpy"
+
+Sempre que o programa pedir dados de massa, distância inicial e deslocamento final, esses dados serão inseridos em notação científica, ou seja, sobre a fórmula:
+valor*10^(expoente)
+Sendo assim, caso queira, por exemplo, usar a massa da Terra (5.972*10^24), este dado pode ser inserido de diversas formas diferentes, entre elas temos:
+"""
+Massa do Corpo parado em Kg: 5972
+Valor do expoente da massa corpo em notação científica: 21
+"""
+ou:
+"""
+Massa do corpo parado em Kg: 5.972
+Valor do expoente da massa do corpo em notação científica: 24
+"""
