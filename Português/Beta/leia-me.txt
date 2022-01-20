@@ -1,0 +1,12 @@
+Notas de atualização:
+
+1. Adicionada a função de baixar os valores de espaço, velocidade e aceleração separadamente em documentos TXT.
+2. Adicionada demonstração gráfica para os valores de espaço, velocidade e aceleração.
+
+Importante:
+
+Para utilizar os programas "AV12E" e "AV12G" é necessário instalar a bibliotecas "matplotlib" e "numpy" em seu aparelho, a instalação pode ser feita pelo prompt de comando, digitando:
+"""
+pip install matplotlib
+pip install numpy
+"""
