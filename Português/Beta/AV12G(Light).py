@@ -1,5 +1,5 @@
-# VACS
-# Versão Alpha
+# V.A.C.S
+# Versão Beta
 # Programador por: João Victor Pereira Cavalcanti e Anderson Cortez Calderini
 
 def tori(v0,acel,d_s):
