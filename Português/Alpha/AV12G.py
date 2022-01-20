@@ -1,5 +1,5 @@
-# S.C.A.V
-# Versão 2.3.0
+# V.A.C.S
+# Versão Alpha
 # Programador por: João Victor Pereira Cavalcanti e Anderson Cortez Calderini
 
 def tori(v0,acel,d_s):
