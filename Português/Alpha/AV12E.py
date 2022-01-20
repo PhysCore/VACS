@@ -1,6 +1,6 @@
-# S.C.A.V
+# V.A.C.S
 # Versão Alpha
-# Programador por: João Victor Pereira Cavalcanti e Anderson Cortez Calderini
+# Programado por: João Victor Pereira Cavalcanti e Anderson Cortez Calderini
 
 def tori(v0,acel,d_s):
     return ((v0**2)+acel*2*d_s)**0.5
